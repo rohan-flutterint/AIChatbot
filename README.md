@@ -27,7 +27,7 @@ pip install chatbotAI
 install from github:
 ```sh
 git clone https://github.com/rohankumardubey/AIChatbot.git
-cd Chatbot
+cd AIChatbot
 python setup.py install
 ```
 
