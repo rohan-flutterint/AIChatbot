@@ -26,7 +26,7 @@ pip install chatbotAI
 
 install from github:
 ```sh
-git clone https://github.com/ahmadfaizalbh/Chatbot.git
+git clone https://github.com/rohankumardubey/Chatbot.git
 cd Chatbot
 python setup.py install
 ```
@@ -65,10 +65,6 @@ def who_is(session, query):
 first_question="Hi, how are you?"
 Chat("examples/Example.template").converse(first_question)
 ```
-
-For Detail on how to build Facebook messenger bot checkout  [Facebook Integration.ipynb](https://github.com/ahmadfaizalbh/Meetup-Resources/blob/master/Facebook%20Integration.ipynb)
-
-For Jupyter notebook Chatbot checkout [Infobot built using NLTK-Chatbot](https://github.com/ahmadfaizalbh/Meetup-Resources/blob/master/How%20to%20build%20a%20bot.ipynb)
 
 #### Sample Apps
 1. A sample facebook messenger bot built using [messengerbot](https://github.com/geeknam/messengerbot/pulls), [Django](https://github.com/django/django) and [NLTK-Chatbot](#chatbot) is available here [Facebook messenger bot](https://github.com/ahmadfaizalbh/FacebookMessengerBot/)
