@@ -66,10 +66,6 @@ first_question="Hi, how are you?"
 Chat("examples/Example.template").converse(first_question)
 ```
 
-#### Sample Apps
-1. A sample facebook messenger bot built using [messengerbot](https://github.com/geeknam/messengerbot/pulls), [Django](https://github.com/django/django) and [NLTK-Chatbot](#chatbot) is available here [Facebook messenger bot](https://github.com/ahmadfaizalbh/FacebookMessengerBot/)
-2. A sample microsoft bot built using [Microsoft Bot Connector Rest API - v3.0](https://docs.botframework.com/en-us/restapi/connector/#navtitle), [Django](https://github.com/django/django) and [NLTK-Chatbot](#chatbot) is available here [Micosoft Chatbot](https://github.com/ahmadfaizalbh/Microsoft-chatbot/)
-
 ## List of feature supported in bot template
 1. [Memory](#memory)
 2. [Get matched group](#get-matched-group)
